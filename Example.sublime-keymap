@@ -1,0 +1,5 @@
+[
+  { "keys": ["alt+1"], "command": "st_translate", "args": {"source_language": "", "target_language": "uk"} },
+  { "keys": ["alt+2"], "command": "st_translate", "args": {"source_language": "", "target_language": "en"} },
+  { "keys": ["alt+3"], "command": "st_translate" },
+]
